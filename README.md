@@ -8,3 +8,6 @@ Hey Day is a time-honored tradition that has its roots dating all the way back t
 
 
 This code is an interactive code to celebrate the "Hey Day". When executed, it will ask to write your name. After this requisite be done, it will run a script sayng "Hey, with a variable that is your name" : "Hey (name) "
+
+
+![Image of Auburn's mascot using a T-shirt celebrating the HeyDay](https://auburnloveitshowit.com/wp-content/uploads/2020/09/2020_1001_HeyDayBack.jpg)
