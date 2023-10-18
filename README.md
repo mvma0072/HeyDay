@@ -5,3 +5,6 @@ Hey Day is a time-honored tradition that has its roots dating all the way back t
 
 > [!NOTE]
 > You can learn more in this link: https://sga.auburn.edu/hey-day/
+
+
+This code is an interactive code to celebrate the "Hey Day". When executed, it will ask to write your name. After this requisite be done, it will run a script Hey, with a variable that is your name: "Hey (name) "
